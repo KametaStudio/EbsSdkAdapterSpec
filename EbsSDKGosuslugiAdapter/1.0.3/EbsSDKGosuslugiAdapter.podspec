@@ -8,7 +8,7 @@
 
 
 Pod::Spec.new do |s|
-  s.name             = 'EbsSDKAdapter'
+  s.name             = 'EbsSDKGosuslugiAdapter'
   s.version          = '1.0.3'
   s.summary          = 'SDK для взаимодействия с МП Биометрия.'
 
